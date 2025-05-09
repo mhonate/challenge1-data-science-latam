@@ -12,8 +12,14 @@ Analizar los datos de ventas, rendimiento y reseñas de las **4 tiendas de Alura
 
 ## 📊 Aspectos a Evaluar
 
-- Ingresos generados por tienda  
-- Categorías de productos más vendidos  
+- Ingresos generados por tienda
+  --La Facturación por tienda corresponden al precio del producto más el costo de envío. Esto se considera el valor total a pagar por el cliente.
+  --Los ingresos como tal corresponden sólo al precio del producto, sin considerar el costo de envio, porque se supone que este valor es el costo por enviarlo a un determinado lugar.
+  --El costo corresponde al 5% de la facturación en todas las ventas, por lo que no influye en la evaluación de ingresos por facturación separar el costo.
+  
+- Categorías de productos más vendidos
+
+- 
 - Reseñas y calificaciones de clientes  
 - Productos con mayor volumen de ventas  
 - Tiempo promedio de envío  
