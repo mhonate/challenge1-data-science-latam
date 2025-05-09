@@ -1,4 +1,4 @@
-##**Challenge  1 Data Science - Tienda**
+**Challenge  1 Data Science - Tienda**
 
 El objetivo de este desafío es ayudar al Sr. Juan a decidir cuál de las tiendas de su cadena Alura Store debería vender para comenzar un nuevo emprendimiento.
 
