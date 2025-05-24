@@ -19,7 +19,7 @@ Analizar los datos de ventas, rendimiento y reseñas de las **4 tiendas de Alura
 - Tiempo promedio de envío  
 
 ---
-## 📈 Visualización de Resultados
+## Visualización de Resultados
 Se deben crear **gráficos claros y visuales** para facilitar la comprensión de los datos analizados y respaldar la recomendación final.
 ---
 
